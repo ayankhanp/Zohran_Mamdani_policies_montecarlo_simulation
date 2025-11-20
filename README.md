@@ -51,3 +51,56 @@ This is how hedge funds, Fortune-500 companies, and government agencies model ri
 
 ## 📁 Repository Structure  
 
+---
+
+## 🧪 How to Run This Project
+
+### ▶️ Run on Google Colab (recommended)
+1. Open the notebook in `notebooks/`
+2. Click **"Open in Colab"**
+3. Run all cells — results will generate instantly.
+
+### ▶️ Run locally  
+
+Open the notebook → Run All.
+
+---
+
+## 📊 Summary of Results  
+After running 10,000 simulations:
+
+- Many outcomes show a **recurring deficit**  
+- Some outcomes indicate lower deficit when economic multipliers are higher  
+- The histogram displays a **wide distribution**, proving large uncertainty  
+- Tail-risk events (worst 5%) are significantly more expensive  
+- Best-case scenarios improve only under strong revenue growth  
+- Overall, the model highlights that **policy outcomes vary dramatically depending on economic volatility**, reinforcing why Monte Carlo simulations are essential.
+
+(You can update this section using your actual numbers from Colab.)
+
+---
+
+## 🌟 Why This Project Matters  
+This repo showcases:
+
+- Statistical modeling  
+- Real quant workflow  
+- Simulation-based forecasting  
+- Policy impact analysis  
+- Code modularity & reproducibility  
+- Professional reporting standards  
+
+Whether used academically, professionally, or for portfolio building — the project demonstrates **true quantitative capability**.
+
+---
+
+## 🤝 Contribute  
+Pull requests welcome.  
+For major changes, please open an issue.
+
+---
+
+## 📜 License  
+MIT License — free for educational & research use.
+
+
